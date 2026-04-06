@@ -64,5 +64,3 @@ The target variable is `Attrition_Flag`:
 - Jupyter Notebook
 
 ---
-
-## Project Structure
